@@ -12,3 +12,5 @@ fi
 # To run it daily, save the script to the file sample.sh in your home directory,
 # change the email to your email,
 # and add the following line at the end of /etc/crontab file
+# @daily ~/sample.sh
+
